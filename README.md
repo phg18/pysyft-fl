@@ -10,8 +10,11 @@ Once you did it, you can run the code in 2 ways.
 3. Running the code by separate:
    
     python3 00-1.py
+   
     python3 00-2.py
+
     python3 00-3.py
+
     python3 00-4.py
 
     Doing it by this way, you can check everything is being executed.
